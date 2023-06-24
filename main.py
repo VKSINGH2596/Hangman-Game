@@ -9,8 +9,6 @@ end_of_game = False
 lives = 6
 
 print(f"************ {hangman_art.logo} *************\n")
-# Testing code
-# print(f'Pssst, the solution is {chosen_word}.')
 
 # Create blanks
 display = []
